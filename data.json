@@ -1,0 +1,25 @@
+{
+  "product": [
+    {
+      "id": 3,
+      "jenis": "smartpon",
+      "nama": "ipon ABC",
+      "warna": "hitam",
+      "aksesoris": ["casan", "hetset"]
+    },
+    {
+      "id": 4,
+      "jenis": "smartpon",
+      "nama": "ipon ABC Pro",
+      "warna": "biru",
+      "aksesoris": ["casan", "hetset", "kabel usb", "garansi"]
+    },
+    {
+      "id": 5,
+      "jenis": "tv",
+      "nama": "smart tv ipon",
+      "warna": "silver",
+      "aksesoris": ["garansi"]
+    }
+  ]
+}
